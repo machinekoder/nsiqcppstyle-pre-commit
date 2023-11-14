@@ -1,0 +1,6 @@
+-   id: nsiqcppstyle
+    name: nsiqcppstyle hook
+    description: This hook runs nsiqcppstyle
+    entry: ./nsiqcppstyle/nsiqcppstyle
+    language: script
+    types: [cpp]
