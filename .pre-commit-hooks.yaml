@@ -1,6 +1,6 @@
 -   id: nsiqcppstyle
     name: nsiqcppstyle hook
     description: This hook runs nsiqcppstyle
-    entry: ./nsiqcppstyle/nsiqcppstyle
+    entry: ./nsiqcppstyle.sh
     language: script
-    types: [cpp]
+    types_or: [c, c++]
